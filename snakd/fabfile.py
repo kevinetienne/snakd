@@ -5,4 +5,4 @@ def clean():
 
 def test():
     clean()
-    local('./test/runtest.py')
+    local('python test/runtest.py')

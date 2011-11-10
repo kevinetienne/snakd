@@ -1,0 +1,10 @@
+#python specific
+*.pyc
+
+#vim files
+*.sw[p|o]
+
+## generic files to ignore
+local_settings.py
+.idea
+build

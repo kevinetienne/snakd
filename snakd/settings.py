@@ -2,7 +2,7 @@ import os
 
 DEBUG = False
 
-PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
+PROJECT_ROOT = os.path.dirname(__file__)
 
 #: None to load template relative to the calling file
 TEMPLATE_DIR = os.path.join(PROJECT_ROOT, "templates")

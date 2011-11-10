@@ -1,0 +1,13 @@
+snakd is a skeleton app for tornado on twisted
+
+INSTALL
+-------
+
+Install via pip in a virtualenv (http://www.virtualenv.org/en/latest/index.html)
+pip install snakd
+
+Clone via github
+https://github.com/ekevin/snakd.git
+
+Install via easy_install
+easy_install snakd
